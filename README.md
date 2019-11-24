@@ -8,4 +8,4 @@ We fit the models in order of increasing complexity. Before moving on from a mod
 
 2. ### [feat_engineer_regress_models.ipynb :](https://nbviewer.jupyter.org/github/denisond/time-series-model-comparison/blob/master/feat_engineer_regress_models.ipynb)
 
-Featuring engineer/selection for various regression models
+Featuring engineer/selection for several regression models.
